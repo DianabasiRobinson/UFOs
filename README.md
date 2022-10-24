@@ -4,7 +4,7 @@
 The objective of this project is to build an interactive webpage for end users to get more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 ## Resources
 - Data Source: UFO data
-- Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+- Software: HTML/CSS, JavaScript, Visual Studio Code, BootStrap.
 ## Results
 ## Search Criteria Procedure
 ### 1. Index page
@@ -38,7 +38,11 @@ The user enters the desired state and shape(triangle) observed, the changes are 
 
 ![filter by shape](https://user-images.githubusercontent.com/109990578/197451405-2a77018e-1eb8-4292-b4e4-317fe3cc2735.png)
 
-Multiple parameters can be filtered.
+### 6. Multiple parameters can be filtered at the same time.
+
+The user can enter and search for a desire date, city, state, country and shape simultaneously.
+
+![all filter](https://user-images.githubusercontent.com/109990578/197546564-0411c0e8-2a4c-41b4-87b1-e2eaf197d4a0.png)
 
 ## Summary
 - One of the constraints of this design is that the filteration process is not flexible to the user.
